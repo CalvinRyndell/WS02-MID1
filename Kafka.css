@@ -2,19 +2,29 @@
 
 html, body{
     font-family: 'DM Sans', sans-serif;
+    height: 100%;
+    width: 100%;
+    padding: 0;
     margin: 0;
+    min-height: 100%;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
     }
     header{
-    background-color: #4a4469;
+    background: linear-gradient(to bottom, 
+    #1a1738, #4a4469);
     padding: 50px;
-    text-align: center;
-    border-radius: 15px;
     margin-top: 20px;
     margin-left: 70px;
     margin-right: 70px;
+    text-align: center;
+    border-radius: 15px;
     font-family: 'Abril Fatface', cursive;
     box-shadow: 10px 10px #988C5B;
+    position: relative;
     }
+
     h1{
     font-weight: lighter;
     font-size: 130px;
@@ -34,6 +44,7 @@ html, body{
     width: 600px;
     position: absolute;
     }
+
     .box {
     background-color: #4a4469;
     padding: 50px;
@@ -41,6 +52,7 @@ html, body{
     color: #f6f6f6;
     box-shadow: 5px 5px #988C5B;
     }
+
     .box1 {
     background-color: #4a4469;
     padding: 20px;
@@ -48,51 +60,97 @@ html, body{
     color: #f6f6f6;
     box-shadow: 5px 5px #988C5B;
     }
+
     .font {
     font-family: 'Abril Fatface', cursive;
     font-weight: lighter;
     color: #282157;
     text-shadow: 2px 2px #aa56496f;
     }
+
     .content{
     max-width: 900px;
     margin: 0 auto;
     padding: 0 10px;
     font-size: 25px;
     }
+
     img.big-image{
-    
     max-width: 100%;
     border-radius: 15px;
     box-shadow: 5px 5px #988C5B;
     }
+
     p.caption{
     font-size: 16px;
     color: lightgrey;
     font-style: italic;
     }
+
     ul{
     list-style: none;
     padding: 0;
     margin: 0;
     }
-    a{
-    color: red;
+
+    .comp {
+    max-width: 900px;
+    background: linear-gradient(to bottom, 
+    #4a4469, #554c89);
+    margin: auto;
+    overflow: auto;
+    justify-content: space-between;
+    display: flex;
+    padding: 40px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 5px #988C5B;
+    }
+
+    .comp img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+    padding: 2px;
+    border-radius: 150px;
+    border: 3px solid #f6f6f6;
+    background-color: #f6f6f6;
+    overflow: auto;
+    justify-content: space-between;
+    display: flex;
+    box-shadow: 4px 4px #988C5B;
+    }
+
+    .char-icon{
+    color: #f6f6f6;
     text-decoration: none;
     }
     
     footer{
-    margin-top: 20px;
     padding: 25px 20px;
-    background-color: #c6bafe;
+    background-color: #cdc2ff;
+    border-radius: 15px;
+    margin: 40px auto;
+    bottom: 0;
     }
+
     footer ul{
     text-align: center;
+    color: #fefefe;
     }
+
     footer ul li{
     display: inline-block;
     margin: 0 5px;
+    font-size: 17px;
     }
+
+    .red {
+    color:red;
+    text-decoration: none;
+    }
+
+   
 
 
     
