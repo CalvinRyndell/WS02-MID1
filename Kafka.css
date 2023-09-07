@@ -16,8 +16,8 @@ html, body{
     #1a1738, #4a4469);
     padding: 50px;
     margin-top: 20px;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
     text-align: center;
     border-radius: 15px;
     font-family: 'Abril Fatface', cursive;
@@ -35,8 +35,8 @@ html, body{
     .icon {
     border-radius: 174px ;
     width: 300px;
-    border: 5px solid #f6f6f6;
-    box-shadow: 5px 5px #988C5B;
+    border: 7px solid #f6f6f6;
+    
     }
     
     .emp {
@@ -50,7 +50,7 @@ html, body{
     padding: 50px;
     border-radius: 15px;
     color: #f6f6f6;
-    box-shadow: 5px 5px #988C5B;
+    box-shadow: 7px 7px #988C5B;
     }
 
     .box1 {
@@ -58,7 +58,7 @@ html, body{
     padding: 20px;
     border-radius: 15px;
     color: #f6f6f6;
-    box-shadow: 5px 5px #988C5B;
+    box-shadow: 7px 7px #988C5B;
     }
 
     .font {
@@ -78,7 +78,7 @@ html, body{
     img.big-image{
     max-width: 100%;
     border-radius: 15px;
-    box-shadow: 5px 5px #988C5B;
+    box-shadow: 7px 7px #988C5B;
     }
 
     p.caption{
@@ -104,7 +104,7 @@ html, body{
     padding: 40px;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 5px 5px #988C5B;
+    box-shadow: 7px 7px #988C5B;
     }
 
     .comp img {
