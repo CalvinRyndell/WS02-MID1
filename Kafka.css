@@ -10,6 +10,7 @@ html, body{
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
+    background-color: antiquewhite;
     }
     header{
     background: linear-gradient(to bottom, 
@@ -33,7 +34,7 @@ html, body{
     }
 
     .icon {
-    border-radius: 174px ;
+    border-radius: 174px;
     width: 300px;
     border: 7px solid #f6f6f6;
     
@@ -69,7 +70,7 @@ html, body{
     }
 
     .content{
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 0 10px;
     font-size: 25px;
