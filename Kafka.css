@@ -12,9 +12,10 @@ html, body{
     flex-direction: column;
     background-color: antiquewhite;
     }
+
     header{
     background: linear-gradient(to bottom, 
-    #1a1738, #4a4469);
+    #282553, #615989);
     padding: 50px;
     margin-top: 20px;
     margin-left: 50px;
@@ -37,7 +38,6 @@ html, body{
     border-radius: 174px;
     width: 300px;
     border: 7px solid #f6f6f6;
-    
     }
     
     .emp {
@@ -47,7 +47,7 @@ html, body{
     }
 
     .box {
-    background-color: #4a4469;
+    background-color: #615989;
     padding: 50px;
     border-radius: 15px;
     color: #f6f6f6;
@@ -55,7 +55,7 @@ html, body{
     }
 
     .box1 {
-    background-color: #4a4469;
+    background-color: #615989;
     padding: 20px;
     border-radius: 15px;
     color: #f6f6f6;
@@ -97,7 +97,7 @@ html, body{
     .comp {
     max-width: 900px;
     background: linear-gradient(to bottom, 
-    #4a4469, #554c89);
+    #615989, #605699);
     margin: auto;
     overflow: auto;
     justify-content: space-between;
