@@ -65,7 +65,7 @@ html, body{
     .font {
     font-family: 'Abril Fatface', cursive;
     font-weight: lighter;
-    color: #282157;
+    color: #362f64;
     text-shadow: 2px 2px #aa56496f;
     text-decoration: none;
     }
@@ -101,8 +101,7 @@ html, body{
 
     .comp {
     max-width: 900px;
-    background: linear-gradient(to bottom, 
-    #615989, #7b73a2);
+    background-color: #615989;
     margin: auto;
     overflow: auto;
     justify-content: space-between;
