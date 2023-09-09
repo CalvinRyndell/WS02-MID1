@@ -79,7 +79,11 @@ html, body{
     .bright {
     text-decoration: none;
     color:rgb(255, 226, 35);
-    
+    }
+
+    .dark {
+    text-decoration: none;
+    color:rgb(198, 175, 208);
     }
 
     .content{
