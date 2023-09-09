@@ -72,6 +72,13 @@ html, body{
 
     a {
     text-decoration: none;
+    color:rgb(255, 128, 0);
+    }
+
+    .bright {
+    text-decoration: none;
+    color:rgb(255, 226, 35);
+    
     }
 
     .content{
