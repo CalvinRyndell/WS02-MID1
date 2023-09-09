@@ -10,12 +10,12 @@ html, body{
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
-    background-color: antiquewhite;
+    background-color: #fefefe;
     }
 
     header{
     background: linear-gradient(to bottom, 
-    #282553, #615989);
+    #222047, #615989);
     padding: 50px;
     margin-top: 20px;
     margin-left: 50px;
@@ -67,6 +67,11 @@ html, body{
     font-weight: lighter;
     color: #282157;
     text-shadow: 2px 2px #aa56496f;
+    text-decoration: none;
+    }
+
+    a {
+    text-decoration: none;
     }
 
     .content{
@@ -137,7 +142,7 @@ html, body{
 
     footer ul{
     text-align: center;
-    color: #fefefe;
+    color: #ffffff;
     }
 
     footer ul li{
