@@ -60,6 +60,7 @@ html, body{
     border-radius: 15px;
     color: #f6f6f6;
     box-shadow: 7px 7px #ff7fc1;
+    margin-bottom: 50px;
     }
 
     .font {
@@ -88,10 +89,18 @@ html, body{
     font-size: 25px;
     }
 
-    img.big-image{
+    img.big-image {
     max-width: 100%;
     border-radius: 15px;
     box-shadow: 7px 7px #ff7fc1;
+    }
+
+    img.big-image2 {
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: 7px 7px #ff7fc1;
+    display: block;
+    margin: auto;
     }
 
     p.caption{
