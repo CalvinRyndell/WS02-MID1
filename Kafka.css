@@ -133,7 +133,7 @@ html, body{
     
     footer{
     padding: 25px 20px;
-    background-color: #cdc2ff;
+    background-color: #ffc2d0;
     border-radius: 15px;
     margin: 40px auto;
     bottom: 0;
@@ -141,7 +141,7 @@ html, body{
 
     footer ul{
     text-align: center;
-    color: #ffffff;
+    color: #72777e;
     }
 
     footer ul li{
@@ -151,7 +151,7 @@ html, body{
     }
 
     .red {
-    color:red;
+    color:rgb(255, 128, 0);
     text-decoration: none;
     }
 
