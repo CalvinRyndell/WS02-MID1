@@ -10,7 +10,7 @@ html, body{
     overflow-x: hidden;
     display: flex;
     flex-direction: column;
-    background-color: #fefefe;
+    background-color: #f8f0ff;
     }
 
     header{
@@ -102,7 +102,7 @@ html, body{
     .comp {
     max-width: 900px;
     background: linear-gradient(to bottom, 
-    #615989, #605699);
+    #615989, #9188c7);
     margin: auto;
     overflow: auto;
     justify-content: space-between;
