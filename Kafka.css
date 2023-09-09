@@ -31,7 +31,7 @@ html, body{
     font-weight: lighter;
     font-size: 130px;
     color: #f6f6f6;
-    text-shadow: 4px 4px #988C5B;
+    text-shadow: 4px 4px #ff7fc1;
     }
 
     .icon {
@@ -51,7 +51,7 @@ html, body{
     padding: 50px;
     border-radius: 15px;
     color: #f6f6f6;
-    box-shadow: 7px 7px #988C5B;
+    box-shadow: 7px 7px #ff7fc1;
     }
 
     .box1 {
@@ -59,7 +59,7 @@ html, body{
     padding: 20px;
     border-radius: 15px;
     color: #f6f6f6;
-    box-shadow: 7px 7px #988C5B;
+    box-shadow: 7px 7px #ff7fc1;
     }
 
     .font {
@@ -84,7 +84,7 @@ html, body{
     img.big-image{
     max-width: 100%;
     border-radius: 15px;
-    box-shadow: 7px 7px #988C5B;
+    box-shadow: 7px 7px #ff7fc1;
     }
 
     p.caption{
@@ -102,7 +102,7 @@ html, body{
     .comp {
     max-width: 900px;
     background: linear-gradient(to bottom, 
-    #615989, #9188c7);
+    #615989, #7b73a2);
     margin: auto;
     overflow: auto;
     justify-content: space-between;
@@ -110,7 +110,7 @@ html, body{
     padding: 40px;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 7px 7px #988C5B;
+    box-shadow: 7px 7px #ff7fc1;
     }
 
     .comp img {
@@ -124,7 +124,7 @@ html, body{
     overflow: auto;
     justify-content: space-between;
     display: flex;
-    box-shadow: 4px 4px #988C5B;
+    box-shadow: 4px 4px #ff7fc1;
     }
 
     .char-icon{
